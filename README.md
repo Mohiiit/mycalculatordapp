@@ -5,8 +5,7 @@ cd <project_name>
 anchor build
 anchor test
 
-although while running the anchor test, it failed and mentioned that ```Unable to start test validator. Check .anchor/test-ledger-log.txt for errors.
-```
+although while running the anchor test, it failed and mentioned that ```Unable to start test validator. Check .anchor/test-ledger-log.txt for errors.```
 
 Then I tried to run the test-validator in a seperate terminal but that results me in a different error.
 
